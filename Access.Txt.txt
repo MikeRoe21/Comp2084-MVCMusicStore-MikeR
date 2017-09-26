@@ -1,0 +1,4 @@
+Host:mike
+Password:TiggerKitty21
+server host: Comp2084-mikeroe.database.windows.net
+server name: Comp2084-mikeroe
